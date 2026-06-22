@@ -1,6 +1,6 @@
 # ECU Calibration Study — EDC-16C9/C39 (Z19DTH)
 
-**BEng Thesis | ASPAITE — Department of Mechanical Engineering Educators | 2020**
+**BEng Thesis | Department of Mechanical Engineering | 2020**
 
 Analysis and optimization of an automotive Electronic Control Unit (ECM) 
 using WinOLS calibration software, covering ECU architecture, sensor 
