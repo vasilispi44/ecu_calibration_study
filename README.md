@@ -126,9 +126,3 @@ of a profile at the intersection of mechanical engineering and applied AI
 for automotive and industrial systems.
 
 ---
-
-## Related Work
-
-[Battery State of Health Prediction API](https://github.com/YOUR_USERNAME/battery-soh-api) — 
-MSc thesis implementation: LSTM-based multi-step SOH forecasting, 
-deployed as a REST API using FastAPI and PyTorch.
