@@ -120,9 +120,6 @@ The practical ECU calibration was performed on a real production vehicle,
 applying theoretical sensor and combustion models to actual map adjustments 
 and verifying outcomes against engine behavior.
 
-This hands-on automotive ECU experience, combined with subsequent MSc research 
-in deep learning for battery State of Health prediction, forms the foundation 
-of a profile at the intersection of mechanical engineering and applied AI 
-for automotive and industrial systems.
+
 
 ---
